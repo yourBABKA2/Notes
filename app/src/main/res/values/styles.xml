@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextWithBorder">
+        <item name="android:background">@drawable/edit_text_border</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="editTextHeaderBackground">
+        <item name="android:background">@drawable/edit_text_header</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="editTextNote">
+        <item name="android:background">@drawable/edit_text_note</item>
+    </style>
+</resources>

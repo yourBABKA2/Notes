@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="textThanks">Спасибо за выбор нашего приложения</string>
+    <string name="textOrganise">Поздравляем с первым шагом к большей организованности</string>
+    <string name="textLetsFindOut">Давайте познакомимся</string>
+    <string name="textBtnEnter">Войти в приложение</string>
+    <string name="textHeader">Заголовок</string>
+    <string name="textNote">Начните ввод</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textListNotes">Список заметок</string>
+</resources>
